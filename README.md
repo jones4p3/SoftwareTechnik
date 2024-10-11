@@ -1,3 +1,3 @@
 # SoftwareTechnik
 -------------------------------------------
-[x] Homework0
+- Homework 0 (Done)
